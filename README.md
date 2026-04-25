@@ -1,21 +1,99 @@
-# 💫 About Me:
--🔧 Skilled in **Python, AI & Data Analysis**<br>- 🚀 Building **real-world intelligent systems**<br>- 📊 Interested in **automation & scalable solutions**<br>- 🌱 Constantly learning & experimenting<br>- 🤝 Connect with me: [LinkedIn](https://www.linkedin.com/in/sourabh-kumar-040566291/)
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:EAF3FF&height=220&section=header&text=Sourabh%20Kumar&fontSize=42&fontColor=2563EB&animation=fadeIn" alt="Header Wave"/>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/vbAzBWT5Jg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sxrabx.s_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sourabh-kumar-040566291/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sxrabx@gmail.com) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=AI+Developer;Python+Engineer;Data+%26+Automation;Building+Real+World+Systems" alt="Typing SVG"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sxrabx&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sxrabx&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sxrabx&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sxrabx&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="600" alt="AI GIF"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<br/><br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<b>Designing intelligent systems with clean, scalable solutions</b>
+
+<br/><br/>
+
+<a href="https://discord.gg/vbAzBWT5Jg">
+  <img src="https://img.shields.io/badge/Discord-F8FAFF?style=flat-square&logo=discord&logoColor=5865F2"/>
+</a>
+<a href="https://instagram.com/_sxrabx.s_">
+  <img src="https://img.shields.io/badge/Instagram-F8FAFF?style=flat-square&logo=instagram&logoColor=E4405F"/>
+</a>
+<a href="https://www.linkedin.com/in/sourabh-kumar-040566291/">
+  <img src="https://img.shields.io/badge/LinkedIn-F8FAFF?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="mailto:sxrabx@gmail.com">
+  <img src="https://img.shields.io/badge/Email-F8FAFF?style=flat-square&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sxrabx&label=Profile%20Views&color=2563EB&style=flat-square"/>
+
+</div>
+
+---
+
+## 🤖 AI Assistant (Light UI)
+
+```yaml
+Assistant: Sourabh_AI
+Status: Online
+
+Capabilities:
+  - AI System Development
+  - Data Analysis & Visualization
+  - Automation Solutions
+  - Full-stack Applications
+
+Prompt Examples:
+  - "Tell me about your projects"
+  - "What technologies do you use?"
+  - "What are you currently building?"
+```
+
+---
+
+### ✨ About Me
+- 🔧 Working with Python, AI & Data Systems
+- 🚀 Building real-world intelligent applications
+- 📊 Focused on automation & scalable architecture
+- 🌱 Constantly learning & experimenting
+
+---
+
+### ⚙️ Tech Stack
+<div align="center"> 
+  <img src="https://skillicons.dev/icons?i=python,java,ts,react,mongodb,mysql,fastapi,docker,git,github,linux&theme=light" alt="Tech Stack" /> 
+</div>
+
+---
+
+### 🧊 Featured Project: MedInfo
+- 🚑 **MedInfo** – AI Hospital Management & Triage System
+- 🧠 AI-based patient prioritization
+- 🏥 Smart hospital workflow automation
+- ⚙️ Built using Python & intelligent models
+
+---
+
+### 📊 Analytics Dashboard
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=sxrabx&show_icons=true&theme=default&hide_border=true&title_color=2563EB" alt="GitHub Stats" /> 
+  <img src="https://streak-stats.demolab.com/?user=sxrabx&theme=default&hide_border=true" alt="GitHub Streak" /> 
+</div>
+
+### 📈 Activity Graph
+<div align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxrabx&bg_color=ffffff&color=2563EB&line=2563EB&point=1f6feb&hide_border=true" alt="Activity Graph" /> 
+</div>
+
+### 💡 Dev Insight
+<div align="center"> 
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" /> 
+</div>
+
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EAF3FF,100:ffffff&height=120&section=footer" alt="Footer Wave" /> 
+</div>
