@@ -35,31 +35,6 @@
 
 ---
 
-## 🤖 AI ASSISTANT (Light UI Simulation)
-
-<img align="right" width="250" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
-
-```yaml
-Sourabh_AI:
-  status: online
-  mode: intelligent_assistant
-
-  capabilities:
-    - AI Systems & NLP
-    - Hospital Management & Triage
-    - NGO Dashboard Analytics
-    - Full-stack Development
-
-  try_commands:
-    - "show projects"
-    - "list tech stack"
-    - "current work"
-```
-
-<br clear="right"/>
-
----
-
 ## ✨ About Me
 
 <div align="center">
@@ -131,6 +106,32 @@ Sourabh_AI:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sxrabx&show_icons=true&theme=default&hide_border=true&title_color=2563EB"/>
   <img src="https://streak-stats.demolab.com/?user=sxrabx&theme=default&hide_border=true"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxrabx&layout=donut&theme=default&hide_border=true&title_color=2563EB&exclude_repo=developer-roadmap,computer-science,app-ideas"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sxrabx&theme=default"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sxrabx&theme=default"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sxrabx&theme=default"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sxrabx&theme=default"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sxrabx&theme=default&utcOffset=5.5"/>
 </div>
 
 ---
