@@ -130,48 +130,28 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.shion.dev/api?username=sxrabx&theme=default&hide_border=true&include_all_commits=true&count_private=false&title_color=2563EB"/>
-  <br/>
   <img src="https://streak-stats.demolab.com/?user=sxrabx&theme=default&hide_border=true"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sxrabx&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact&title_color=2563EB"/>
 </div>
 
 <br/>
 
-<div align="center">
+<div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sxrabx&theme=default"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sxrabx&theme=default"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sxrabx&theme=default"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sxrabx&theme=default"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sxrabx&theme=default&utcOffset=5.5"/>
 </div>
 
 <br/>
 
-<div align="center">
+<div>
   <!-- Classic metrics card with base stats and languages -->
   <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</div>
-
-<br/>
-
-<div align="center">
+  
   <!-- Isometric contribution calendar -->
   <img src="./github-metrics-isocalendar.svg" alt="Isometric Commit Calendar" />
 </div>
