@@ -37,7 +37,7 @@
 
 ## 🤖 AI ASSISTANT (Light UI Simulation)
 
-<img align="right" width="250" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
+<img align="right" width="250" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
 ```yaml
 Sourabh_AI:
