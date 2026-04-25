@@ -130,59 +130,59 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=sxrabx&theme=default&hide_border=true&include_all_commits=true&count_private=false&title_color=2563EB"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=sxrabx&theme=default&hide_border=true"/>
-</div>
+<table border="0" cellpadding="8" cellspacing="8" align="center" width="100%">
+  <!-- Top row: Wide profile details card -->
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sxrabx&theme=default" width="100%"/>
+    </td>
+  </tr>
+  
+  <!-- Dashboard Grid: 3 columns -->
+  <tr>
+    <td valign="top" width="33%" align="center">
+      <img src="https://github-readme-stats.shion.dev/api?username=sxrabx&theme=default&hide_border=true&include_all_commits=true&count_private=false&title_color=2563EB" width="100%"/>
+      <br/><br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sxrabx&theme=default" width="100%"/>
+    </td>
+    
+    <td valign="top" width="33%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=sxrabx&theme=default&hide_border=true" width="100%"/>
+      <br/><br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sxrabx&theme=default" width="100%"/>
+      <br/><br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sxrabx&theme=default" width="100%"/>
+    </td>
+    
+    <td valign="top" width="33%" align="center">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sxrabx&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact&title_color=2563EB" width="100%"/>
+      <br/><br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sxrabx&theme=default&utcOffset=5.5" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sxrabx&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact&title_color=2563EB"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sxrabx&theme=default"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sxrabx&theme=default"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sxrabx&theme=default"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sxrabx&theme=default"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sxrabx&theme=default&utcOffset=5.5"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Classic metrics card with base stats and languages -->
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Isometric contribution calendar -->
-  <img src="./github-metrics-isocalendar.svg" alt="Isometric Commit Calendar" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxrabx&bg_color=ffffff&color=2563EB&line=2563EB&point=1f6feb&hide_border=true"/>
-</div>
+<table border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <!-- Left Column: Tall Classic Metrics Card -->
+    <td valign="top" width="50%">
+      <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+    </td>
+    
+    <!-- Right Column: Animated Graph + Isometric Calendar -->
+    <td valign="top" width="50%">
+      <!-- Multi-colored animated Habits Graph (Bar/Line Combo) -->
+      <img src="./github-metrics-habits.svg" alt="Habits Chart" width="100%" />
+      
+      <br/>
+      
+      <!-- Isometric contribution calendar -->
+      <img src="./github-metrics-isocalendar.svg" alt="Isometric Commit Calendar" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
