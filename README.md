@@ -128,41 +128,31 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<table border="0" cellpadding="8" cellspacing="8" align="center" width="100%">
-  <!-- Top row: Wide profile details card -->
-  <tr>
-    <td colspan="3" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sxrabx&theme=default" width="100%"/>
-    </td>
-  </tr>
-  
-  <!-- Dashboard Grid: 3 columns -->
-  <tr>
-    <td valign="top" width="33%" align="center">
-      <img src="https://github-readme-stats.shion.dev/api?username=sxrabx&theme=default&hide_border=true&include_all_commits=true&count_private=false&title_color=2563EB" width="100%"/>
-      <br/><br/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sxrabx&theme=default" width="100%"/>
-    </td>
-    
-    <td valign="top" width="33%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=sxrabx&theme=default&hide_border=true" width="100%"/>
-      <br/><br/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sxrabx&theme=default" width="100%"/>
-      <br/><br/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sxrabx&theme=default" width="100%"/>
-    </td>
-    
-    <td valign="top" width="33%" align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sxrabx&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact&title_color=2563EB" width="100%"/>
-      <br/><br/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sxrabx&theme=default&utcOffset=5.5" width="100%"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sxrabx&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sxrabx&theme=default&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxrabx&layout=compact&theme=default&hide_border=true&count_private=true"/>
+</div>
 
 <br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sxrabx&bg_color=ffffff&color=2563EB&line=2563EB&point=1f6feb&hide_border=true"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sxrabx/sxrabx/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
+
+---
+
+## 🧊 Detailed Metrics
 
 <table border="0" cellpadding="0" cellspacing="0" align="center">
   <tr>
