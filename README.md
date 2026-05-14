@@ -155,23 +155,20 @@
 ## 🧊 Detailed Metrics
 
 <table border="0" cellpadding="0" cellspacing="0" align="center">
-  <tr>
-    <!-- Left Column: Tall Classic Metrics Card -->
-    <td valign="top" width="50%">
-      <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
-    </td>
-    
-    <!-- Right Column: Animated Graph + Isometric Calendar -->
-    <td valign="top" width="50%">
-      <!-- Multi-colored animated Habits Graph (Bar/Line Combo) -->
-      <img src="./github-metrics-habits.svg" alt="Habits Chart" width="100%" />
-      
-      <br/>
-      
-      <!-- Isometric contribution calendar -->
-      <img src="./github-metrics-isocalendar.svg" alt="Isometric Commit Calendar" width="100%" />
-    </td>
-  </tr>
+<tr>
+<!-- Left Column: Tall Classic Metrics Card -->
+<td valign="top" width="50%">
+<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</td>
+<!-- Right Column: Animated Graph + Isometric Calendar -->
+<td valign="top" width="50%">
+<!-- Multi-colored animated Habits Graph (Bar/Line Combo) -->
+<img src="./github-metrics-habits.svg" alt="Habits Chart" width="100%" />
+<br/>
+<!-- Isometric contribution calendar -->
+<img src="./github-metrics-isocalendar.svg" alt="Isometric Commit Calendar" width="100%" />
+</td>
+</tr>
 </table>
 
 ---
