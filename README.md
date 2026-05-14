@@ -162,9 +162,6 @@
 </td>
 <!-- Right Column: Animated Graph + Isometric Calendar -->
 <td valign="top" width="50%">
-<!-- Multi-colored animated Habits Graph (Bar/Line Combo) -->
-<img src="./github-metrics-habits.svg" alt="Habits Chart" width="100%" />
-<br/>
 <!-- Isometric contribution calendar -->
 <img src="./github-metrics-isocalendar.svg" alt="Isometric Commit Calendar" width="100%" />
 </td>
