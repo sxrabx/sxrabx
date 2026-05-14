@@ -131,9 +131,9 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sxrabx&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=sxrabx&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sxrabx&theme=default&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxrabx&layout=compact&theme=default&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sxrabx&layout=compact&theme=default&hide_border=true&count_private=true"/>
 </div>
 
 <br/>
