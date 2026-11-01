@@ -146,9 +146,6 @@
 
 <br/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sxrabx&bg_color=ffffff&color=2563EB&line=2563EB&point=1f6feb&hide_border=true"/>
-</div>
 
 ---
 
