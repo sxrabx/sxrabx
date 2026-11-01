@@ -136,6 +136,16 @@
 
 ---
 
+## ?? LeetCode Stats
+
+
+<div align="center">
+  <a href="https://leetcode.com/u/sxrabx">
+    <img src="https://leetcard.jacoblin.cool/sxrabx?theme=light&font=Inter&ext=activity" alt="LeetCode Stats" />
+  </a>
+</div>
+
+
 ## 📊 GitHub Analytics
 
 <div align="center">
