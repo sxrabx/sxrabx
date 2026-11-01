@@ -41,6 +41,16 @@
 
 ---
 
+## 🏆 GitHub Achievements & Trophies
+
+<div align="center">
+  <a href="https://github.com/sxrabx">
+    <img src="https://github-profile-trophy-nu.vercel.app/?username=sxrabx&theme=flat&no-frame=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
+
+
+
 ## ✨ About Me
 
 <div align="center">
@@ -136,7 +146,7 @@
 
 ---
 
-## ?? LeetCode Stats
+## 🧩 LeetCode Stats
 
 
 <div align="center">
